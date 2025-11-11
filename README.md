@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification
 Breast Cancer Histopathology Classification using Transfer Learning.  
----
+
 
 ## Project Overview
 The goal of this project is to fine-tune a pretrained ResNet-18 model to classify breast cancer histopathology images into IDC (Invasive Ductal Carcinoma) and Non-IDC.
