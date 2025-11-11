@@ -1,5 +1,6 @@
 # Breast-Cancer-Classification
-Breast Cancer Histopathology Classification using Deep Learning (IDC Detection) This project focuses on finetuning pretrained ResNet-18 model to classify breast cancer histopathology images into IDC (Invasive Ductal Carcinoma) vs Non-IDC, using the publicly available in dataset from kaggle.
+Breast Cancer Histopathology Classification using Deep Learning (IDC Detection).  
+This project fine-tunes a pretrained ResNet-18 model to classify breast cancer histopathology images into IDC (Invasive Ductal Carcinoma) and Non-IDC, using a public dataset from Kaggle.
 ---
 
 ## Project Overview
